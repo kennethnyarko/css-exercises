@@ -11,12 +11,12 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin-bottom: 50px;
+  margin-bottom: px;
 }
 
 .image-box{
     display:flex;
-    justify-contententer;
+    justify-content: center;
     gap: 52px;
     }
 
