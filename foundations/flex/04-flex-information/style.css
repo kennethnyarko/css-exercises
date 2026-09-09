@@ -14,9 +14,10 @@ img {
 }
 
 .image-box{
-  display:flex;
-  justify-content: center;
-}
+    display:flex;
+    justify-content: center;
+    gap: 52px;
+    }
 
 /* do not edit this footer */
 .footer {
@@ -29,4 +30,8 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.images-text{
+  max-width: 200px;
 }
